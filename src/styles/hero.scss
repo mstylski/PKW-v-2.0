@@ -1,0 +1,50 @@
+@import "variables";
+@import "mixins";
+
+.hero {
+  background: url(../images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_japonskiudonklasyczny_2880x2304.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.call-to-action-box {
+  display: none;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+
+  @include md-up{
+    display: flex;
+  }
+}
+
+.hero h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.hero .sub-title {
+  font-size: 30px;
+  color: white;
+}
+
+.row {
+  display: flex;
+}
+
+@include md-up{
+  .hero-content {
+    width: 900px
+  }
+}

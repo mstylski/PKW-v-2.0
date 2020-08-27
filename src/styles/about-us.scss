@@ -1,0 +1,33 @@
+@import "variables";
+@import "mixins";
+
+.about-us-section p {
+  font-size: 14px;
+  text-align: center;
+  line-height: 22px;
+}
+
+.about-us-section{
+  text-align: center;
+  background-image: url(src/images/krzych1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-us::before,
+.about-us::after {
+  content: "";
+  display: block;
+  border: 1px solid #949494;
+}
+
+.about-us {
+  display: flex;
+  align-items: center;
+}
+
+.about-us::before,
+.about-us::after {
+  flex-grow: 1;
+  margin: 0 45px;
+}

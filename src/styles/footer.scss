@@ -1,0 +1,15 @@
+@import "variables";
+@import "mixins";
+
+.footer {
+  padding-bottom: 15px;
+  background-color: black;
+}
+
+.col-sm-4 {
+  text-align: center;
+  padding-top: 15px;
+  color: white;
+  line-height: 22px;
+  font-size: 14px;
+}

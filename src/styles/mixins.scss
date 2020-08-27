@@ -1,0 +1,13 @@
+@import "variables";
+
+@mixin md-up {
+  @media(min-width: #{(map-get($grid-breakpoints, md))}) {
+    @content;
+  }
+}
+
+@mixin md-down {
+  @media(max-width: #{(map-get($grid-breakpoints, md))}) {
+    @content;
+  }
+}

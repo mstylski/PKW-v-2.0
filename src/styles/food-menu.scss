@@ -1,0 +1,53 @@
+@import "variables";
+@import "mixins";
+
+.menu-content {
+  margin: 0 auto; /* trick na wysrodkowanie elementu poziomo */
+}
+
+.menu-item-title {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+}
+
+.menu-item-description {
+  display: flex;
+  justify-content: end;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 15px;
+}
+
+.menu-list li {
+  border-bottom: 1px solid #838383;
+}
+
+.menu-list li:last-of-type {
+  border-bottom: none;
+}
+
+.fa-leaf {
+  color: green;
+}
+
+.fa-hotjar {
+  color: #ff0000;
+}
+
+.fa-pepper-hot {
+  color: red;
+}
+
+.food-extras {
+  padding-top: 60px;
+  color: darkcyan;
+  font-style: revert;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
