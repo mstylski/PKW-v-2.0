@@ -51,3 +51,16 @@
 h3{
   text-align: center;
 }
+
+.nav-pills{
+  display: flex;
+  justify-content: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.food-nav-item {
+  color: #ffffff;
+  background-color: #0d0d0e;
+}
+.nav-link {
+  color: black;
+}

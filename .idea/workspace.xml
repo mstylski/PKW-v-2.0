@@ -11,16 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f97db60-0921-42ff-953d-6f528248e21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/about-us.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/food-menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/top-navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/20200404-p3974_masken_A350-Presse--HR-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about-us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/food-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/food-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,8 @@
       <updated>1598443257993</updated>
       <workItem from="1598443259563" duration="8036000" />
       <workItem from="1598511678003" duration="607000" />
-      <workItem from="1598516290802" duration="12277000" />
+      <workItem from="1598516290802" duration="18432000" />
+      <workItem from="1598596018915" duration="12938000" />
     </task>
     <servers />
   </component>
@@ -91,10 +91,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1598448269640" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598616588663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598616588663" />
     <state x="368" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598446034065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="368" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1598446034065" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598616585182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598616585182" />
     <state x="0" y="0" width="1141" height="811" key="dock-window-1" timestamp="1598518288865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -103,5 +111,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598448560749" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1598610153457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598610153457" />
   </component>
 </project>
