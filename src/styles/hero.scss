@@ -2,7 +2,7 @@
 @import "mixins";
 
 .hero {
-  background: url(../images/13-Przyganial-Kociol-Zblizenie-5-full-res.jpg) no-repeat center center fixed;
+  background: url(../images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_japonskiudonklasyczny_2880x2304.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -46,11 +46,5 @@
 @include md-up{
   .hero-content {
     width: 900px
-  }
-}
-
-@include md-down{
-  .hero-content{
-    display: none;
   }
 }

@@ -9,10 +9,9 @@
 
 .about-us-section{
   text-align: center;
-  background-image: url(../images/krzych1.jpg);
+  background-image: url(src/images/krzych1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
 }
 
 .about-us::before,
@@ -31,11 +30,4 @@
 .about-us::after {
   flex-grow: 1;
   margin: 0 45px;
-}
-
-@include md-down {
-  .about-us-section {
-    background: url(../images/FB_IMG_1592855369886.jpg) no-repeat center center fixed;
-    background-size: cover;
-  }
 }
