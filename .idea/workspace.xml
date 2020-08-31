@@ -12,9 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4f97db60-0921-42ff-953d-6f528248e21e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/5-Przyganial-Kociol-Zblizenie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1592855369886.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/krzych1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/5-Przyganial-Kociol-Zblizenie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/hero-logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1592855369886.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/o-nas-stocznia-patelnia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/krzych1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/o-nas-stocznia.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/about-us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-us.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/food-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/food-menu.scss" afterDir="false" />
@@ -63,7 +63,7 @@
       <workItem from="1598511678003" duration="607000" />
       <workItem from="1598516290802" duration="18432000" />
       <workItem from="1598596018915" duration="20276000" />
-      <workItem from="1598859050279" duration="1103000" />
+      <workItem from="1598859050279" duration="1702000" />
     </task>
     <servers />
   </component>
