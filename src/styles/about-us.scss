@@ -9,10 +9,14 @@
 
 .about-us-section{
   text-align: center;
-  background-image: url(../images/krzych1.jpg);
+  background-image: url(../images/o-nas-stocznia.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: #ffffff;
+  @include md-down{
+    background: url(../images/o-nas-stocznia-patelnia.jpg) no-repeat center center fixed;
+    background-size: cover;
+  }
 }
 
 .about-us::before,
@@ -33,9 +37,3 @@
   margin: 0 45px;
 }
 
-@include md-down {
-  .about-us-section {
-    background: url(../images/FB_IMG_1592855369886.jpg) no-repeat center center fixed;
-    background-size: cover;
-  }
-}
