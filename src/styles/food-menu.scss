@@ -30,7 +30,7 @@
 }
 
 .fa-leaf {
-  color: green;
+  color: #008000;
 }
 
 .fa-hotjar {
@@ -38,21 +38,21 @@
 }
 
 .fa-pepper-hot {
-  color: red;
+  color: #ff0000;
 }
 
 .food-extras {
   padding-top: 60px;
-  color: darkcyan;
+  color: #008b8b;
   font-style: revert;
   text-align: center;
 }
 
-h3{
+h3 {
   text-align: center;
 }
 
-.nav-pills{
+.nav-pills {
   display: flex;
   justify-content: center;
 }
@@ -63,4 +63,28 @@ h3{
 }
 .nav-link {
   color: black;
+}
+
+.appetizers-menu{
+  padding-bottom: 150px;
+  padding-top: 30px;
+  background: url(../images/2-Przyganial-Kociol-Udon.jpg) no-repeat center center fixed;
+}
+
+.appetizers-menu h3{
+  color: white;
+}
+
+.soups-menu{
+  padding-top: 30px;
+  padding-bottom: 150px;
+}
+.main-dishes-menu{
+  padding-top: 30px;
+  padding-bottom: 150px;
+}
+
+.desserts-menu{
+  padding-top: 30px;
+  padding-bottom: 150px;
 }

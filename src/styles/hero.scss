@@ -2,7 +2,7 @@
 @import "mixins";
 
 .hero {
-  background: url(../images/13-Przyganial-Kociol-Zblizenie-5-full-res.jpg) no-repeat center center fixed;
+  background: url(../images/hero-logo.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -14,43 +14,38 @@
 }
 
 .call-to-action-box {
-  display: none;
+  display: flex;
   justify-content: center;
   position: absolute;
   bottom: 0;
   right: 0;
   left: 0;
-  background-color: black;
-  color: white;
+  background-color: #000000;
+  color: #ffffff;
   font-size: 18px;
 
-  @include md-up{
+  .hero h1 {
+    font-size: 50px;
+    color: #ffffff;
+  }
+
+  .hero .sub-title {
+    font-size: 30px;
+    color: #ffffff;
+  }
+
+  .row {
     display: flex;
   }
-}
 
-.hero h1 {
-  font-size: 50px;
-  color: white;
-}
-
-.hero .sub-title {
-  font-size: 30px;
-  color: white;
-}
-
-.row {
-  display: flex;
-}
-
-@include md-up{
   .hero-content {
-    width: 900px
+    @include md-up {
+      width: 900px;
+      display: flex;
+    }
+    @include md-down {
+      display: none;
+    }
   }
 }
 
-@include md-down{
-  .hero-content{
-    display: none;
-  }
-}
