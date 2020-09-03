@@ -1,10 +1,18 @@
 @import "variables";
 @import "mixins";
 
+.header {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
 .top-nav {
   display: flex;
-  align-items: center
+  align-items: center;
+  position: fixed;
 }
+
 
 .header-logo {
   height: auto;
@@ -30,9 +38,17 @@
   background-color: white;
 }
 
+.col-nav {
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
 .nav-list {
   display: flex;
   list-style: none;
+  margin-bottom: 0;
+  padding-right: 20px;
 }
 
 .nav-list-item {

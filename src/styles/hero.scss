@@ -14,7 +14,7 @@
 }
 
 .call-to-action-box {
-  display: flex;
+  display: none;
   justify-content: center;
   position: absolute;
   bottom: 0;
@@ -23,29 +23,34 @@
   background-color: #000000;
   color: #ffffff;
   font-size: 18px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 
-  .hero h1 {
-    font-size: 50px;
-    color: #ffffff;
-  }
-
-  .hero .sub-title {
-    font-size: 30px;
-    color: #ffffff;
-  }
-
-  .row {
+  @include md-up {
     display: flex;
-  }
-
-  .hero-content {
-    @include md-up {
-      width: 900px;
-      display: flex;
-    }
-    @include md-down {
-      display: none;
-    }
   }
 }
 
+.hero h1 {
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: bold;
+
+
+  @include md-up {
+    font-size: 48px;
+  }
+}
+
+.sub-title {
+  font-size: 18px;
+  color: #ffffff;
+
+  @include md-up {
+    font-size: 28px;
+  }
+}
+
+.row {
+  display: flex;
+}
