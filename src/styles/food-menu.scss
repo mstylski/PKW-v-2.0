@@ -2,7 +2,7 @@
 @import "mixins";
 
 .menu-content {
-  margin: 0 auto; /* trick na wysrodkowanie elementu poziomo */
+  margin: 0 auto;
 }
 
 .menu-item-title {
@@ -13,7 +13,24 @@
 
 .menu-item-description {
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
+
+  i {
+    padding-left: 18px;
+  }
+
+  .fa-leaf {
+    color: #008000;
+  }
+
+  .fa-hotjar {
+    color: $red;
+  }
+
+  .fa-pepper-hot {
+    color:$red;
+  }
+
 }
 
 .menu-list {
@@ -29,21 +46,9 @@
   border-bottom: none;
 }
 
-.fa-leaf {
-  color: #008000;
-}
-
-.fa-hotjar {
-  color: #ff0000;
-}
-
-.fa-pepper-hot {
-  color: #ff0000;
-}
-
 .food-extras {
   padding-top: 60px;
-  color: #008b8b;
+  color: white;
   font-style: revert;
   text-align: center;
 }
@@ -57,34 +62,41 @@ h3 {
   justify-content: center;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show>.food-nav-item {
+.nav-pills .nav-link.active, .nav-pills .show > .food-nav-item {
   color: #ffffff;
   background-color: #0d0d0e;
 }
+
 .nav-link {
-  color: black;
+  color: $black;
 }
 
-.appetizers-menu{
+.appetizers-menu {
   padding-bottom: 150px;
   padding-top: 30px;
-  background: url(../images/2-Przyganial-Kociol-Udon.jpg) no-repeat center center fixed;
+  background: url(../images/gallery/udon2-kuchnia-azjatycka-gdansk.jpg) no-repeat center center fixed;
 }
 
-.appetizers-menu h3{
-  color: white;
+.appetizers-menu h3 {
+  color: #ffffff;
 }
 
-.soups-menu{
+.soups-menu,
+.main-dishes-menu,
+.desserts-menu {
   padding-top: 30px;
   padding-bottom: 150px;
-}
-.main-dishes-menu{
-  padding-top: 30px;
-  padding-bottom: 150px;
+  color: #ffffff;
 }
 
-.desserts-menu{
-  padding-top: 30px;
-  padding-bottom: 150px;
+.soups-menu {
+  background: url(../images/gallery/soup2-kuchnia-azjatycka-gdansk.jpg) no-repeat center center fixed;
+}
+
+.main-dishes-menu {
+  background: url(../images/gallery/hero-logo2-kuchnia-azjatycka-gdansk.jpg) no-repeat center center fixed;
+}
+
+.desserts-menu {
+  background: url(../images/gallery/matcha-kuchnia-azjatycka-gdansk.jpg) center center fixed;
 }

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
     <meta charset="utf-8">
-    <title>Przyganiał Kocioł Wokowi</title>
+    <title>Przyganiał Kocioł Wokowi - kuchnia azjatycka w Gdańsku</title>
+    <meta name="description" content="Poznaj smaki azji! Azjatycki street food w lokalu i na wynos!">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;0,800;1,300;1,400;1,600;1,700&display=swap"
-          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -19,14 +19,26 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
             integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
             crossorigin="anonymous"></script>
+    <link  href="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script  type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179424310-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-179424310-1');
+    </script>
+
 </head>
 <body>
-<header class="header">
+<header id="top-header" class="top-header">
     <div class="container">
         <div class="row justify-content-between no-gutters">
             <div class="col col-logo">
-                <img class="header-logo" src="../src/images/logo_wok.png"
-                     alt="Przyganiał Kocioł Wokowi logo">
+                <a href="#">
+                    <img class="header-logo" src="../src/images/logo_wok_final.png" alt="Przyganiał Kocioł Wokowi logo">
+                </a>
             </div>
             <div class="col col-nav">
                 <nav>
@@ -34,19 +46,20 @@
                         <li class="nav-list-item"><a href="#">Strona główna</a></li>
                         <li class="nav-list-item"><a href="#o-nas">O nas</a></li>
                         <li class="nav-list-item"><a href="#menu">Menu</a></li>
+                        <li class="nav-list-item"><a href="#galeria">Galeria</a></li>
                         <li class="nav-list-item"><a href="#kontakt">Kontakt</a></li>
                     </ul>
                 </nav>
+                <i id="menu-btn" class="fas fa-bars"></i>
             </div>
         </div>
     </div>
 </header>
 
-
 <div class="hero">
     <div class="container">
         <div class="hero-content">
-            <h1>Gdański Street Food łączący kuchnie azjatycka z regionalnymi produktami</h1>
+            <h1>Gdański Street Food łączący kuchnię azjatycką z regionalnymi produktami</h1>
             <p class="sub-title">Autorskie dania odpowiednie dla wegan jak i mięsożerców</p>
         </div>
         <div class="call-to-action-box">
@@ -57,18 +70,17 @@
                 </div>
                 <div class="col-md-4">
                     <p class="peanut-color">NAPISZ DO NAS</p>
-                    <p>przyganialkociol@gmail.com</p>
+                    <p><a class="mail" href="mailto:przyganialkociol@gmail.com">przyganialkociol@gmail.com</a></p>
                 </div>
                 <div class="col-md-4">
                     <p class="peanut-color">OBSERWUJ NAS</p>
-                    <p class="logo-fb">
+                    <a class="logo-fb" href="https://www.facebook.com/przyganialkociol">
                         <i class="fab fa-facebook"></i>
-                    </p>
+                    </a>
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 <main>
     <section id="menu">
@@ -99,21 +111,12 @@
                         <ul class="menu-list">
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Warzywa sezonowe w tempurze</p>
+                                    <p>Pak Choi w tempurze</p>
                                     <p>15zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>majo domu i/lub homemade sweetchilli</p>
+                                    <p>wasabi majo domu i/lub homemade sweetchilli</p>
                                     <i class="fas fa-leaf"></i>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="menu-item-title">
-                                    <p>Ceviche z sandacza</p>
-                                    <p>19zł</p>
-                                </div>
-                                <div class="menu-item-description">
-                                    <p>marynowany sandacz z limonką</p>
                                 </div>
                             </li>
                             <li>
@@ -122,17 +125,16 @@
                                     <p>14zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>papryczki/kompresowany ogórek gruntowy/ponzu/zielona oliwa</p>
-                                    <i class="fas fa-leaf"></i>
+                                    <p>sezonowo - zapytaj co teraz oferujemy</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Fasolka i bób po koreańsku</p>
+                                    <p>Sajgonki JinPinga</p>
                                     <p>15zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>czosnek/imbir/szczypior/sezam/zioła</p>
+                                    <p>2szt homemade/thai style ponzu</p>
                                     <i class="fas fa-leaf"></i>
                                 </div>
                             </li>
@@ -143,11 +145,11 @@
                         <ul class="menu-list">
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Tajska</p>
+                                    <p>Lemon Thai</p>
                                     <p>15zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>mleko kokosowe/limonka/makaron ryżowy/warzywa sezonowe</p>
+                                    <p>trawa cytrynowa/kafir/limonka/olej cytrusowy/makaron ryżowy/warzywa sezonowe</p>
                                     <i class="fab fa-hotjar"></i>
                                 </div>
                             </li>
@@ -157,18 +159,18 @@
                                     <p>19zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>makaron ryżowy/bulion z kaszubskiego sandacza i dashi/limonka/świeże
+                                    <p>makaron ryżowy/krewetki/dashi/limonka/świeże
                                         zioła/chilli</p>
                                     <i class="fab fa-hotjar"></i>
                                 </div>
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Pomarańczowy Tom-Yum</p>
+                                    <p>Mexico Tom-Yum</p>
                                     <p>17zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>tapioka/zielona oliwa/olej chilli/kolendra/warzywa sezonowe</p>
+                                    <p>czerwona fasola/kukurydza/edamame/tapioka/olej chilli/świeże zioła/wonton nachos</p>
                                 </div>
                             </li>
                         </ul>
@@ -179,56 +181,45 @@
                         <ul class="menu-list">
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Red Curry</p>
+                                    <p>Yellow Curry</p>
                                     <p>26zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>ryż/warzywa sezonowe/czarny sezam/kafir/trawa cytrynowa</p>
+                                    <p>ryż/masala/dynia/kafir/trawa cytrynowa/piklowana czerwona cebula/pieczony kalafior</p>
                                     <i class="fas fa-leaf"></i>
                                 </div>
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Wieprzowina w stylu Korean BBQ</p>
+                                    <p>China Con Carne</p>
                                     <p>28zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>biały sezam/gochujang/warzywa sezonowe/ryż/zioła</p>
+                                    <p>wieprzowina/wołowina/biały sezam/ostrygowy/warzywa sezonowe/kompresowany ogórek gruntowy/ryż/zioła</p>
                                     <i class="fas fa-leaf"></i>
                                 </div>
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Sandacz kaszubski w tempurze</p>
-                                    <p>34zł</p>
+                                    <p>Kurczak Sekretarza Kima</p>
+                                    <p>32zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>sałatka sezonowa/zielony sos kamigami/ryż</p>
+                                    <p>sałatka sezonowa/ ryż w stylu El Paso/ tempura/ sos z orzechów, fermentowanej papryki i pomidorów</p>
                                     <i class="fas fa-leaf"></i>
                                 </div>
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Japoński Udon</p>
-                                    <p>27zł</p>
-                                </div>
-                                <div class="menu-item-description">
-                                    <p>udon/puder z nori/2x sezam/warzywa sezonowe</p>
-                                    <i class="fas fa-leaf"></i>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="menu-item-title">
-
                                     <p>Orzechowy Udon</p>
                                     <p>27zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>(opcja na ostro z chilli i piklowanymi jalapeño) orzechy/pikle/zioła/puder
-                                        nori/warzywa
-                                        sezonowe</p>
-                                    <i class="fab fa-hotjar"></i>
-                                    <i class="fas fa-leaf"></i>
+                                    <p>orzechy/pikle/zioła/puder nori/ warzywa sezonowe/ +1zł opcja na ostro z chilii i piklowanymi jalapeño</p>
+                                    <div>
+                                        <i class="fas fa-leaf"></i>
+                                        <i class="fab fa-hotjar"></i>
+                                    </div>
                                 </div>
                             </li>
                             <li>
@@ -243,11 +234,11 @@
                             </li>
                             <li>
                                 <div class="menu-item-title">
-                                    <p>Summer Udon</p>
-                                    <p>15zł</p>
+                                    <p>Smażony ryż El planto</p>
+                                    <p>30zł</p>
                                 </div>
                                 <div class="menu-item-description">
-                                    <p>zioła/warzywa sezonowe/pikle/puder z nori</p>
+                                    <p>chorizo/edamame/palona kolba kukurydzy/ ryż El paso/sos szefa/świeży ogórek/papryka/limonka/masło/kolendra</p>
                                     <i class="fas fa-leaf"></i>
                                 </div>
                             </li>
@@ -264,48 +255,46 @@
                             <li>
                                 <div class="menu-item-title">
                                     <p>Piana z matchy</p>
-                                    <p>14zł</p>
+                                    <p>15zł</p>
                                 </div>
                                 <div class="menu-item-description">
                                     <p>owoce sezonowe/ziemia z czekolady</p>
                                 </div>
                             </li>
-                            <li>
-                                <div class="menu-item-title">
-                                    <p>Sorbet z ogórka</p>
-                                    <p>14zł</p>
-                                </div>
-                                <div class="menu-item-description">
-                                    <p>owoce sezonowe/crumble z czekolady i orzechów</p>
-                                </div>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section id="o-nas" class="about-us-section">
-        <h2 class="about-us">O nas</h2>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <p>
-                        <br>Przyganiał Kocioł Wokowi to pierwsze miejsce w Gdańsku, które posiada w swojej ofercie
-                        takie nietypowe połączenia jak zupy i makarony z woka z różnych stron świata.<br> <br>
-                        Budujemy konktretną markę,
-                        która ma na celu spełnienie najśmielszych oczekiwań wobec naszych gości zarówno vegan jak i
-                        non-vegan.
-                        <br><br>W obecnym nowoczesnym, szybko rozwijającym się świecie gastronomii nie zostajemy w
-                        tyle, cały czas rozwijając
-                        się, ucząc nowych technik i dań specjalnie dla Was.<br>Promujemy azjatycki Street Food w
-                        autorskim wydaniu, bazując na lokalnych oraz sezonowych produktach. Na pierwszym miejscu
-                        stawiamy zawsze jakość oraz zadowolenie naszych gości. Gotowanie jest naszą pasją, która
-                        przelewamy na talerze.<br> W naszym lokalu panuje miła i przyjazna atmosfera,
-                        tak
-                        żeby każdy czuł się jak u siebie.<br><br>
-                        <br>Serdecznie zapraszamy<br>
-                    </p>
+    <section id="galeria" class="gallery-section">
+        <h2 class="section-header">Galeria</h2>
+        <div id="gallery-content"></div>
+    </section>
+    <section id="o-nas">
+        <h2 class="section-header">O nas</h2>
+        <div class="about-us-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <p>
+                            <br>Przyganiał Kocioł Wokowi to pierwsze miejsce w Gdańsku, które posiada w swojej ofercie
+                            takie nietypowe połączenia jak zupy i makarony z woka z różnych stron świata.<br> <br>
+                            Budujemy konktretną markę,
+                            która ma na celu spełnienie najśmielszych oczekiwań wobec naszych gości zarówno vegan jak i
+                            non-vegan.
+                            <br><br>W obecnym nowoczesnym, szybko rozwijającym się świecie gastronomii nie zostajemy w
+                            tyle, cały czas rozwijając
+                            się, ucząc nowych technik i dań specjalnie dla Was.<br>Promujemy azjatycki Street Food w
+                            autorskim wydaniu, bazując na lokalnych oraz sezonowych produktach. Na pierwszym miejscu
+                            stawiamy zawsze jakość oraz zadowolenie naszych gości. Gotowanie jest naszą pasją, którą
+                            przelewamy na talerze.<br> W naszym lokalu panuje miła i przyjazna atmosfera,
+                            tak
+                            żeby każdy czuł się jak u siebie.<br><br>
+                            <br>Serdecznie zapraszamy<br>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -322,21 +311,32 @@
     <div class="container">
         <div class="row">
             <address class="col-sm-4">
-                <p>PRZYGANIAŁ KOCIOŁ WOKOWI</p>
-                <p>Łąkowa 10</p>
-                <p>Gdańsk</p>
+                <p class="gold">PRZYGANIAŁ KOCIOŁ WOKOWI</p>
+                <p>ul. Łąkowa 10 Gdańsk Dolne miasto</p>
             </address>
             <div class="col-sm-4">
-                <p>GODZINY OTWARCIA</p>
-                <p>Poniedziałek-Niedziela: 12:00-21:00</p>
+                <p class="gold">GODZINY OTWARCIA</p>
+                <p>poniedziałek - niedziela: 12:00 - 21:00</p>
             </div>
             <div class="col-sm-4">
-                <p>KONTAKT</p>
-                <p><a href="tel:+48570090447">+48 570 090 447</a></p>
-                <p>przyganialkociol@gmail.com</p>
+                <div class="row">
+                    <div class="col"><a target="_blank" href="https://www.facebook.com/przyganialkociol/"><img class="footer-icon instagram-logo" src="../src/images/fb.jpg" alt="facebook"></a></div>
+                    <div class="col"><a target="_blank" href="mailto:przyganialkociol@gmail.com"><img class="footer-icon instagram-logo" src="../src/images/mail_small.jpg" alt="mail"></a></div>
+                    <div class="col"><a target="_blank" href="https://www.instagram.com/przyganialkociol/?hl=pl"><img class="footer-icon instagram-logo" src="../src/images/instagram.jpg" alt="instagram"></a></div>
+                    <div class="col"><a target="_blank" href="https://www.pyszne.pl/menu/przyganial-kociol-delivery"><img class="footer-icon instagram-logo" src="../src/images/pysznepl_small.jpg" alt="pyszne"></a></div>
+                </div>
             </div>
         </div>
+        <small class="footer-timestamp">Created with love for eating by Michał Stylski | <time datetime="2020">2020</time></small>
     </div>
 </footer>
+<div class="cookie-box">
+    <p>Strona używa ciasteczek (ale nie azjatyckich ;))<br>
+        Korzystając z niej wyrażasz zgodę na wykorzystywanie cookies, zgodnie z ustawieniami Twojej przeglądarki.
+    </p>
+    <button id="cookie-btn" class="d-block mt-3 btn btn-success m-auto">
+        Akceptuję
+    </button>
+</div>
 </body>
 </html>

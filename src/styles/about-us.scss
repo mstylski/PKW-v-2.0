@@ -3,37 +3,19 @@
 
 .about-us-section p {
   font-size: 14px;
-  text-align: center;
+  text-align: left;
   line-height: 22px;
 }
 
-.about-us-section{
+.about-us-section {
   text-align: center;
-  background-image: url(../images/o-nas-stocznia.jpg);
+  background-image: url(../images/gallery/o-nas-stocznia-kuchnia-azjatycka-gdansk.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
-  @include md-down{
-    background: url(../images/o-nas-stocznia-patelnia.jpg) no-repeat center center fixed;
+
+  @include md-down {
+    background: url(../images/gallery/o-nas-stocznia-patelnia-kuchnia-azjatycka-gdansk.jpg) no-repeat center center fixed;
     background-size: cover;
   }
 }
-
-.about-us::before,
-.about-us::after {
-  content: "";
-  display: block;
-  border: 1px solid #949494;
-}
-
-.about-us {
-  display: flex;
-  align-items: center;
-}
-
-.about-us::before,
-.about-us::after {
-  flex-grow: 1;
-  margin: 0 45px;
-}
-

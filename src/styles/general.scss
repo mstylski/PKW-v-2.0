@@ -2,15 +2,28 @@
 @import "mixins";
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  background: #a78328;
+  font-family: 'Ubuntu', sans-serif;
+  background: $black;
 }
 
-.col-logo {
-  flex: 0 0 80px;
+.section-header::before,
+.section-header::after {
+  content: "";
+  display: block;
+  flex-grow: 1;
+  margin: 0 45px;
+  color: #ffffff;
+  border: 1px solid $gold;
 }
 
-h2 {
-  padding-top: 20px;
-  padding-bottom: 20px;
+.section-header {
+  background: $black;
+  padding: 40px 10px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.gold {
+  color: $gold;
 }

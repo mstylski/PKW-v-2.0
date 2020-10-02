@@ -11,12 +11,291 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f97db60-0921-42ff-953d-6f528248e21e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/app.f9501d4f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/app.f9501d4f.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/hero-logo2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/hero3-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/matcha-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/o-nas-stocznia-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/o-nas-stocznia-patelnia-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/soup2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/images/gallery/udon2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/black mail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/black mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Grupowe-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Grupowe-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Kacze-Pho-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Kacze-Pho-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Kimchi-Jigae-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Laksa-z-Penang-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Miso-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Pad-Thai-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Pad-Thai-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Udon-Kim-Dzong-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Udon-Kim-Dzong-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Udon-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-1-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-2-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-3-full-res (1)-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-3-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-4-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-5-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-Przyganial-Kociol-Zblizenie-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-black_sago-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-burger-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-china_con_carne-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-china_con_carne2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-dania_uber-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-deser3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-food_track-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-hero-logo-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-hero2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-kimchi-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-kopytka-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-kurczak_kim1-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-kurczak_kim2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-kurczak_sekretarza_kima-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lemon_thai-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal4-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal5-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-lokal6-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-matcha-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-matcha2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-miso-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-mix-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-o-nas-stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-o-nas-stocznia-patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ogrodek-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ogrodek2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ogrodek3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-patelnia_ogien-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-pho-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ramen-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ramen_cebulowy-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ryz-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ryż_smazony2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ryż_smażony-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-soup-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-stocznia-patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-stocznia2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-stocznia_-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-sushi-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-szarpanina-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-szparag-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-szparagi_w_tempurze-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-tom-yum-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon orzech-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon22222-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon4-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-udon_orzech2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-warzywa-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wok-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wok-stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wok_stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wok_stocznia3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wok_stocznia_2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-wolowina-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-yakitori-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-ziola-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ICON-zupa-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Grupowe-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Grupowe-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Kacze-Pho-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Kacze-Pho-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Kimchi-Jigae-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Laksa-z-Penang-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Miso-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Pad-Thai-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Pad-Thai-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Udon-Kim-Dzong-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Udon-Kim-Dzong-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Udon-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-1-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-2-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-3-full-res (1)-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-3-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-4-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-5-full-res-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/Przyganial-Kociol-Zblizenie-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/black_sago-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/burger-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/china_con_carne-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/china_con_carne2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/dania_uber-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/deser3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/food_track-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero-logo-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero-logo2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero-logo2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero3-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/hero3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/kimchi-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/kopytka-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/kurczak_kim1-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/kurczak_kim2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/kurczak_sekretarza_kima-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lemon_thai-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal4-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal5-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/lokal6-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/matcha-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/matcha-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/matcha2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/miso-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/mix-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/o-nas-stocznia-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/o-nas-stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/o-nas-stocznia-patelnia-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/o-nas-stocznia-patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ogrodek-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ogrodek2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ogrodek3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/patelnia_ogien-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/pho-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ramen-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ramen_cebulowy-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ryz-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ryż_smazony2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ryż_smażony-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/soup-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/soup2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/soup2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/stocznia-patelnia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/stocznia2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/stocznia_-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/sushi-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/szarpanina-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/szparag-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/szparagi_w_tempurze-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/tom-yum-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon orzech-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon2-kuchnia-azjatycka-gdansk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon22222-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon4-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/udon_orzech2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/warzywa-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wok-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wok-stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wok_stocznia-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wok_stocznia3-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wok_stocznia_2-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/wolowina-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/yakitori-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/ziola-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gallery/zupa-kuchnia-azjatycka-gdansk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/instagram-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/instagram-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_wok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_wok_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mail_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pysznepl (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pysznepl (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pysznepl_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/cookies.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/gallery.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PKW-v-2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PKW-v-2.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.6ddb5bea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.6ddb5bea.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/images/2-Przyganial-Kociol-Udon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/images/hero-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/images/o-nas-stocznia-patelnia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/images/o-nas-stocznia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/1-Przyganial-Kociol-Pad-Thai-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/1-Przyganial-Kociol-Pad-Thai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/10-Przyganial-Kociol-Zblizenie-2-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/11-Przyganial-Kociol-Zblizenie-3-full-res (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/11-Przyganial-Kociol-Zblizenie-3-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/12-Przyganial-Kociol-Zblizenie-4-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/13-Przyganial-Kociol-Zblizenie-5-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/2-Przyganial-Kociol-Udon-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/2-Przyganial-Kociol-Udon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/2-Przyganial-Kociol-Zblizenie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/3-Przyganial-Kociol-Udon-Kim-Dzong-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/3-Przyganial-Kociol-Udon-Kim-Dzong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/3-Przyganial-Kociol-Zblizenie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/4-Przyganial-Kociol-Kacze-Pho-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/4-Przyganial-Kociol-Kacze-Pho.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/4-Przyganial-Kociol-Zblizenie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/5-Przyganial-Kociol-Miso-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/5-Przyganial-Kociol-Miso.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/6-Przyganial-Kociol-Laksa-z-Penang-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/6-Przyganial-Kociol-Laksa-z-Penang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/7-Przyganial-Kociol-Kimchi-Jigae-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/7-Przyganial-Kociol-Kimchi-Jigae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/8-Przyganial-Kociol-Grupowe-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/9-Przyganial-Kociol-Zblizenie-1-full-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1592855372293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1592855374310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1592855376311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1596723172058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/FB_IMG_1597221779004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/IMG_20200125_130717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/IMG_20200505_221604.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Przyganial-Kociol-Grupowe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/hero-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/o nas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/o-nas-stocznia-patelnia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/o-nas-stocznia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/patelnia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_bulionwchinskimstylu_2880x2304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_chinskiryzkurczakwarzywa_2880x2304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_hero_2880x2304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_japonskiudonklasyczny_2880x2304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/przyganial_kociol_wokowi_-_sfdcid_0011j00001pemmsqaz_klasykchinskinaostro_2880x2304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/wok-stocznia-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about-us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/food-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/food-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/top-navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/top-navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,9 +309,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../football_manager" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +343,49 @@
       <workItem from="1598947960395" duration="24000" />
       <workItem from="1599043678093" duration="1236000" />
       <workItem from="1599045096375" duration="2207000" />
-      <workItem from="1599137975862" duration="2732000" />
+      <workItem from="1599137975862" duration="3503000" />
+      <workItem from="1599484273093" duration="883000" />
+      <workItem from="1599553360622" duration="4074000" />
+      <workItem from="1599557917215" duration="1172000" />
+      <workItem from="1599588971935" duration="346000" />
+      <workItem from="1599836927094" duration="540000" />
+      <workItem from="1600425552307" duration="1010000" />
+      <workItem from="1600426596329" duration="4120000" />
+      <workItem from="1600434200449" duration="781000" />
+      <workItem from="1601120172799" duration="149000" />
+      <workItem from="1601380183731" duration="202000" />
+      <workItem from="1601380401071" duration="1065000" />
+      <workItem from="1601384091602" duration="1785000" />
+      <workItem from="1601385899592" duration="1792000" />
+      <workItem from="1601387715262" duration="300000" />
+      <workItem from="1601390191641" duration="1345000" />
+      <workItem from="1601391996223" duration="1262000" />
+      <workItem from="1601396345029" duration="811000" />
+      <workItem from="1601398758280" duration="880000" />
+      <workItem from="1601449928455" duration="1667000" />
+      <workItem from="1601451784131" duration="1938000" />
+      <workItem from="1601454011713" duration="1790000" />
+      <workItem from="1601455822700" duration="2045000" />
+      <workItem from="1601457906130" duration="1797000" />
+      <workItem from="1601459722078" duration="2111000" />
+      <workItem from="1601461867324" duration="1786000" />
+      <workItem from="1601463680182" duration="1785000" />
+      <workItem from="1601465489325" duration="1797000" />
+      <workItem from="1601467405513" duration="1392000" />
+      <workItem from="1601469677737" duration="209000" />
+      <workItem from="1601478762285" duration="190000" />
+      <workItem from="1601540690650" duration="613000" />
+      <workItem from="1601548246163" duration="19000" />
+      <workItem from="1601548324726" duration="601000" />
+      <workItem from="1601550281050" duration="9000" />
+      <workItem from="1601553320496" duration="6738000" />
+      <workItem from="1601568793861" duration="9978000" />
+      <workItem from="1601614333778" duration="16000" />
+      <workItem from="1601614573471" duration="313000" />
+      <workItem from="1601625274851" duration="1469000" />
+      <workItem from="1601628002304" duration="4000" />
+      <workItem from="1601628036268" duration="3826000" />
+      <workItem from="1601634141214" duration="4415000" />
     </task>
     <servers />
   </component>
@@ -77,27 +404,54 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="518" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598447370174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="518" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598447370174" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599046752600">
+    <state x="438" y="190" key="EditFileWatcherDialog" timestamp="1601466583819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599046752600" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1599045528702">
+    <state x="438" y="190" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1601466583819" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601639067994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1599045528702" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601639067994" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1601639071758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601639071758" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1601639071758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601639071758" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1601639071758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601639071758" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1601639071758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601639071758" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1601466572198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601466572198" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601559612771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1601559612771" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598616588663">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598616588663" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599044419017">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601639071802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1599044419017" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1601639071802" />
     <state x="368" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599044321119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -110,17 +464,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="1141" height="811" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1598518288865" />
-    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1598448560749">
+    <state x="79" y="101" width="1385" height="710" key="find.popup" timestamp="1601638708935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598448560749" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1598610153457">
+    <state x="79" y="101" width="1385" height="710" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601638708935" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600427735762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598610153457" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599140281929">
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600427735762" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601559922063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599140281929" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601559922063" />
   </component>
 </project>

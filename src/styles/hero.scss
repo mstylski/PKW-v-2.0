@@ -2,7 +2,7 @@
 @import "mixins";
 
 .hero {
-  background: url(../images/hero-logo.jpg) no-repeat center center fixed;
+  background: url(../images/gallery/hero3-kuchnia-azjatycka-gdansk.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -12,7 +12,13 @@
   text-align: center;
   position: relative;
 }
-
+.fab {
+color: $white;
+}
+.mail {
+  text-decoration: none;
+  color: $white;
+}
 .call-to-action-box {
   display: none;
   justify-content: center;
@@ -20,7 +26,7 @@
   bottom: 0;
   right: 0;
   left: 0;
-  background-color: #000000;
+  background-color: $black;
   color: #ffffff;
   font-size: 18px;
   padding-top: 15px;
