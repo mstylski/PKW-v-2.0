@@ -6,6 +6,10 @@
     "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js --colors",
     "start": "webpack-dev-server --open --config webpack/webpack.config.dev.js"
   },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+    ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wbkd/webpack-starter.git"
@@ -50,6 +54,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
+    "autoprefixer": "^10.0.1",
     "bootstrap": "^4.5.2",
     "core-js": "^3.6.5"
   }
